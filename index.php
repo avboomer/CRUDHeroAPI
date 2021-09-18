@@ -54,7 +54,7 @@
             <input type="text" name="teamaffiliation" id="afiliacao">
         </div>
 
-        <button type="submit" name="m_btn_criar">Alterar herói</button>
+        <button type="submit" name="m_btn_alterar">Alterar herói</button>
     </form>
 
     <h2>Excluir herói</h2>
